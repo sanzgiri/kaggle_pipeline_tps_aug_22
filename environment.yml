@@ -19,7 +19,7 @@ dependencies:
   - rope
   - black
   - nodejs
-  - category-encoders=2.2.2
+  - category_encoders==2.2.2
   - jedi
   - pip:
     - kaggle
